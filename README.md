@@ -54,21 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
- ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISHAQUE9812&show_icons=true&theme=radical" alt="ISHAQUE9812 GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHAQUE9812&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAQUE9812&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🛠️ Frontend Tech Stack
 
 <p align="left">
@@ -91,3 +76,16 @@
 - 🔐 JWT Authentication and middleware logic
 - 🌍 Scalable deployments with Vercel and dynamic API routes
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISHAQUE9812&show_icons=true&theme=radical" alt="ISHAQUE9812 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHAQUE9812&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAQUE9812&layout=compact&theme=radical" alt="Top Languages" />
+</p>
